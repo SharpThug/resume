@@ -3,7 +3,7 @@
 **C# / .NET-разработчик**  
 📍  Уфа, Россия   
 📞 +7 (996) 100-77-53   
-✉️ [axmedyanov.ildar@mail.ru](mailto:axmedyanov.ildar@mail.ru)  
+✉️ [ildarsharp@mail.ru](mailto:axmedyanov.ildar@mail.ru)  
 💬 Telegram: [@ahmedyanoff](https://t.me/ahmedyanoff)  
 🐙 GitHub: [SharpThug](https://github.com/SharpThug)
 
